@@ -1,0 +1,12 @@
+html,
+body {
+  background: mintcream;
+  font-family: 'Montserrat', sans-serif;
+}
+h1 {
+  border-left: 2px solid #00f29f;
+  font-size: 50px;
+  font-weight: 400px;
+  padding-left: 20px;
+  font-weight: 700;
+}
