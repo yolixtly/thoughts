@@ -54,3 +54,12 @@ h1 {
   font-size: 36px;
   margin: 36px;
 }
+.icon {
+  float: right;
+  padding: 0 1rem;
+  color: hotpink;
+  transition: color 1s;
+}
+.icon:hover {
+  color: #00F28F;
+}
